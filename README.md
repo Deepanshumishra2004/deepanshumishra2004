@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Mishra</h1>
+<h1 align="center">Hi , I'm Deepanshu Mishra</h1>
 <h3 align="center">Welcome to my GitHub! I'm passionate about blockchain technology, decentralized applications, and full-stack development. I love building real-world projects, exploring new tech stacks, and contributing to open-source.</h3>
 
 - 💻 Language-- **JavaScript, TypeScript, Solidity, HTML, CSS,C++,C**
