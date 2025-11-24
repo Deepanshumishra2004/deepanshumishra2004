@@ -9,7 +9,7 @@
 
 <!-- ========================= SECTION: TECH STACK ========================= -->
 <h2 style="margin-bottom: 8px;">Tech Stack</h2>
-<div style="padding-left: 10px; line-height: 1.8;">
+<div style="">
 
 **Languages:**  
 TypeScript, JavaScript, Rust, Solidity, C++, HTML, CSS  
@@ -35,7 +35,7 @@ Web development, blockchain basics, real-time systems
 
 <!-- ========================= SECTION: CONTACT ========================= -->
 <h2 style="margin-bottom: 8px;">Contact</h2>
-<div style="padding-left: 10px; line-height: 1.8;">
+<div style="">
 Email: <strong>deepanshumishra2004@gmail.com</strong>  
 Quote I live by: <em>“Build the life you want — no one else will do it for you.”</em>
 </div>
@@ -44,7 +44,7 @@ Quote I live by: <em>“Build the life you want — no one else will do it for y
 
 <!-- ========================= SECTION: LINKS ========================= -->
 <h2 style="margin-bottom: 8px;">Connect With Me</h2>
-<div style="padding-left: 10px; line-height: 1.8;">
+<div style="">
 <a href="https://www.linkedin.com/in/deepanshu-mishra-169278298" target="_blank">LinkedIn</a><br/>
 <a href="https://github.com/Deepanshumishra2004" target="_blank">GitHub</a><br/>
 <a href="https://x.com/d33p___________" target="_blank">Twitter</a><br/>
