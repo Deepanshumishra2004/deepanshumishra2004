@@ -1,28 +1,21 @@
 <h1 align="center">Hi, I'm Deepanshu Mishra</h1>
 <h3 align="center">
-Welcome to my GitHub! I’m a full-stack and blockchain developer focused on building scalable systems, decentralized applications, and modern web platforms.
+Full-stack developer focused on blockchain, decentralized applications, and modern web technologies. 
+I enjoy building real-world systems, exploring emerging tech, and improving my craft every day.
 </h3>
 
-- 💻 Languages — **TypeScript, JavaScript, Rust, Solidity, C++, C**
-- 🔧 Frameworks — **Next.js, React.js, Node.js, Express.js, Tailwind CSS, Anchor**
-- 🗃️ Databases — **PostgreSQL, MongoDB, Prisma ORM, Redis**
-- ☁️ Cloud & DevOps — **Docker, Kubernetes, AWS**
-- 🙋‍♂️ Currently learning — **Blockchain, Rust**
-- 📫 Contact — **deepanshumishra2004@gmail.com**
-- ⚡ Motto — **Build a life that feels right for you.**
+- **Languages:** TypeScript, JavaScript, Rust, Solidity, C++, HTML, CSS  
+- **Frameworks:** Next.js, React.js, Node.js, Express.js, Tailwind CSS, Anchor  
+- **Databases:** PostgreSQL, MongoDB, Prisma ORM, Redis  
+- **Currently Learning:** Blockchain development, Rust, advanced system design  
+- **Ask Me About:** Web development, blockchain, real-time systems  
+- **Contact:** deepanshumishra2004@gmail.com  
+- **Quote I Live By:** *“Build the life you want — no one else will do it for you.”*
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/deepanshu-mishra-169278298/" target="blank">
-    LinkedIn
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://www.instagram.com/d33p__________/" target="blank">
-    Instagram
-  </a>
-</p>
-
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-  TypeScript • JavaScript • Rust • Solidity • C++ • Next.js • React.js • Node.js • Express.js • Tailwind CSS • PostgreSQL • MongoDB • Prisma ORM • Redis • Docker • Kubernetes • Git • Postman • Figma
+<a href="https://www.linkedin.com/in/deepanshu-mishra-169278298" target="_blank">LinkedIn</a>  
+<a href="https://github.com/Deepanshumishra2004" target="_blank">GitHub</a>  
+<a href="https://x.com/d33p___________" target="_blank">Twitter</a>  
+<a href="https://mini-portfolio-liard.vercel.app" target="_blank">Portfolio</a>
 </p>
