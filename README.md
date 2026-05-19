@@ -8,9 +8,9 @@
 
 <div style="line-height: 1.55;">
 
-<strong>Languages:</strong> TypeScript, JavaScript, Rust, Solidity, C++
+<strong>Languages:</strong> TypeScript, JavaScript, Rust, Solidity, C++  
 <strong>Frameworks:</strong> Next.js, React.js, Node.js, Express.js, Tailwind CSS, Anchor  
-<strong>Databases:</strong> PostgreSQL, MongoDB, Prisma ORM, Redis, Clickhouse
+<strong>Databases:</strong> PostgreSQL, MongoDB, Prisma ORM, Redis, Clickhouse  
 <strong>Currently Learning:</strong> Blockchain development, Rust  
 <strong>Ask Me About:</strong> Web development, blockchain, real-time systems  
 
